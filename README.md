@@ -10,7 +10,7 @@ O servidor:<br><br>
 📨 responde requisições HTTP<br>
 📂 entrega os arquivos da aplicação<br>
 🧾 define os tipos de conteúdo enviados ao navegador<br>
-📌 Rotas utilizadas<br>
+📌 Rotas utilizadas:<br>
 Rota	Função<br>
 /	retorna o arquivo HTML<br>
 /style.css	retorna o CSS<br>
