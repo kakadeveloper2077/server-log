@@ -60,7 +60,7 @@ Copia os dados exibidos no painel de logs para a área de transferência.<br><br
 
 🚀 Como Executar o Projeto<br>
 1️⃣ Clone o repositório<br>
-git clone https://github.com/seu-usuario/seu-repositorio.git<br>
+git clone https://github.com/kakadeveloper2077/server-log.git<br>
 2️⃣ Acesse a pasta<br>
 cd seu-repositorio<br>
 3️⃣ Execute o servidor<br>
