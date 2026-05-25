@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--importação css.-->
+    <link rel="stylesheet" href="/style.css">
+    <title>Server log</title>
+</head>
+<body>
+    <!--UI da tela, textarea o painel de log, registros feitos pelo servidor.-->
+    <textarea id="server_info" readonly class="server_panel"></textarea><br><br>
+    <label><b>Status code do servidor:</b></label>
+     <input id="statuscode"> <br><br>
+    <button onclick="capture()"><b>Iniciar captura em tempo real.</b></button>
+    <button onclick="refresh()"><b>Atualizar servidor.</b></button> <br><br>
+    <button onclick="copy()"><b>Copiar dados.</b></button>
+</body>
+<!--importação javascript.-->
+<script src="/script.js"></script>
+</html>

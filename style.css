@@ -1,0 +1,47 @@
+/*estilização responsável pelo corpo da página*/
+body {
+    /*background: url(bg.jpg);*/
+    background-color: blue;
+    text-align: center;
+    margin-top: 50px;
+}
+
+/*estilização responsável pelo painél do servidor (textarea)*/
+.server_panel {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: none;
+    resize: none;
+    background-color: black;
+    box-shadow: 4px 4px 4px black;
+    color: white;
+    width: 600px;
+    height: 300px;
+    outline: none;
+    border: none;
+}
+
+/*estilização dos botões*/
+button {
+    outline: none;
+    font-family: Arial, Helvetica, sans-serif;
+}button:hover {
+    cursor: pointer;
+    background-color: rgb(156, 156, 156);
+    box-shadow: 2px 2px 2px black;
+}
+
+/*estilização da mensagem da UI.*/
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+/*estilização do input*/
+input{
+    outline: none;
+    font-family: Arial, Helvetica, sans-serif;
+}input:hover{
+    cursor: pointer;
+    background-color: rgb(156, 156, 156);
+    box-shadow: 2px 2px 2px black;
+}
