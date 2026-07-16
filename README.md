@@ -13,8 +13,8 @@ O servidor:<br><br>
 📌 Rotas utilizadas:<br>
 Rota	Função<br>
 /	retorna o arquivo HTML<br>
-/style.css	retorna o CSS<br>
-/script.js	retorna o JavaScript<br>
+/ style.css	retorna o CSS<br>
+/ script.js	retorna o JavaScript<br>
 🖥️ Frontend<br><br>
 
 A interface possui:<br><br>
